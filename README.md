@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Here is a screenshot of this project.
+![alt text](https://ekpohg.ch.files.1drv.com/y4maWyE-8LZB93P20tQNLC0lVe239WWdzsuN-6ENbK6xDZvydlZh35J4f4N8S8ft1dRwVD1p__ynctD1MQh2vwsgxQOWJRRcSYcbdodk0VIU8ZOFyrfMO1sQKl8WPG3RguE0oTW3bIWoEbHaXtjFdyIDT68KlX97ffx2W_qYRNB8xbv9t549Vk2FjhKBwb9VqtEeeykyvcmyNyslDyTYZ9hmg?width=735&height=646&cropmode=none)
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
